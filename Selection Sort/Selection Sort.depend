@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544115718 source:f:\backup\néu\git\apa\selection sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
