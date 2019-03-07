@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549471763 source:f:\backup\néu\git\apa\merge sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
